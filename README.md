@@ -12,7 +12,7 @@
 
 - Fork and Clone the repository using-
 ```
-
+https://github.com/Akash252002/blog.git
 ```
 - Create a Branch- 
 ```
